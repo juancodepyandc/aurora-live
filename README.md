@@ -1,43 +1,57 @@
-# AuroraIA — accès en ligne
+# AuroraIA — mon studio d'IA, en local
 
-Bienvenue. Ceci est mon studio d'IA locale, tournant sur ma propre machine (RTX 5070 Ti) et
-partagé ici via un lien temporaire. Le lien change à chaque fois que je relance le studio :
-cette page est mise à jour automatiquement pour toujours pointer sur l'adresse en cours.
+Salut 👋 Moi c'est Juan. AuroraIA, c'est mon studio d'intelligence artificielle que je fais tourner
+**entièrement sur ma propre machine** — pas de cloud, pas d'abonnement, tout reste chez moi. J'y ai
+regroupé de quoi créer des images, des vidéos, des objets et personnages en 3D animés, du son, du code,
+et même un assistant qui travaille directement sur mon ordinateur.
 
-## 🔴 Lien en direct
+Quand mon studio est allumé, je le partage ici via un lien temporaire. Cette page se met à jour toute
+seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé**.
 
-<!--LIVE-->
-**👉 [https://thriller-assistant-crew-chan.trycloudflare.com](https://thriller-assistant-crew-chan.trycloudflare.com)**
+## État du studio
 
-_En ligne — mis à jour le 2026-07-08 03:50._
-<!--/LIVE-->
+<!--STATUS-->
+🔴 **Fermé pour le moment.** Le studio n'est pas allumé — repassez un peu plus tard.
+<!--/STATUS-->
 
-> Le lien n'est valable que quand mon PC est allumé et le studio démarré. S'il ne répond pas,
-> c'est que la session est fermée — repassez plus tard.
+## Un mot sur la qualité (et la patience 🙏)
 
-## Les modules
+Je fais tourner tout ça sur **une seule carte graphique grand public (16 Go)**, pas sur une ferme de
+serveurs. J'ai fait un choix simple : **je privilégie la qualité au temps**. Concrètement, une image, une
+vidéo ou une 3D peuvent prendre plus longtemps qu'un service en ligne géant — parce que je vise le
+meilleur rendu possible avec ma config, quitte à faire travailler la machine plus longtemps. Donc si ça
+mouline, c'est normal : c'est de la qualité qui se prépare, pas un bug.
 
-- **3D** — décris un objet ou un personnage, il le génère en 3D et peut l'**animer** (bouton
-  Animation ON/OFF : ON = mouvement généré, OFF = pose figée). Ex. « Caine qui court ».
-- **Image** — génération d'images à partir d'un texte.
-- **Dessin** — dessine et fais évoluer une illustration guidée par l'IA.
-- **Manga** — planches, personnages et scènes façon manga.
-- **Vidéo** — courtes séquences animées à partir d'un texte.
-- **Voix** — synthèse vocale (lire un texte) et dictée (parler pour écrire).
-- **Chat** — assistant conversationnel généraliste.
-- **Code** — assistant de programmation.
-- **Cowork** — l'IA travaille directement sur le poste : création et modification de fichiers,
-  tâches concrètes (pas juste du texte).
-- **Cyber** — outils et analyses de cybersécurité.
-- **Academy** — apprentissage guidé, cours et exercices.
+## Les modules (clique pour le guide détaillé)
 
-## Comment l'utiliser
+| Module | En deux mots | Guide |
+|---|---|---|
+| 🧊 **3D** | Un texte ou **une/des photos** → un objet ou personnage en 3D, que je peux **animer**. | [modules/3d.md](modules/3d.md) |
+| 🖼️ **Image** | Génère des images depuis un texte **ou une image de référence**. | [modules/image.md](modules/image.md) |
+| 🎬 **Vidéo** | De courtes vidéos depuis un texte **ou une image** de départ. | [modules/video.md](modules/video.md) |
+| 📚 **Manga** | Personnages, planches et scènes façon manga. | [modules/manga.md](modules/manga.md) |
+| ✏️ **Dessin** | Dessine et fais évoluer une illustration guidée. | [modules/dessin.md](modules/dessin.md) |
+| 🔊 **Voix** | Lire un texte à voix haute, ou parler pour écrire. | [modules/voix.md](modules/voix.md) |
+| 💬 **Chat** | Un assistant qui répond, explique, rédige. | [modules/chat.md](modules/chat.md) |
+| 👨‍💻 **Code** | Un copilote pour programmer. | [modules/code.md](modules/code.md) |
+| 🤝 **Cowork** | L'IA travaille **directement sur l'ordinateur** (fichiers, tâches). | [modules/cowork.md](modules/cowork.md) |
+| 🛡️ **Cyber** | Outils et analyses de cybersécurité. | [modules/cyber.md](modules/cyber.md) |
+| 🎓 **Academy** | Apprendre, avec cours et exercices guidés. | [modules/academy.md](modules/academy.md) |
 
-1. Ouvre le **lien en direct** ci-dessus (quand il est actif).
-2. Choisis un module dans la barre latérale.
-3. Écris ta demande en clair (français ou anglais) et lance.
-4. Pour la 3D : garde le bouton **Animation** sur ON si tu veux du mouvement, OFF pour une pose statique.
-5. Sois patient sur les générations lourdes (image haute qualité, 3D, vidéo) : la qualité prime sur la vitesse.
+## Comment ça marche, en gros
+
+1. J'allume le studio → un lien apparaît en haut de cette page.
+2. Vous ouvrez le lien, vous choisissez un module dans la barre de gauche.
+3. Vous écrivez votre demande en clair (français ou anglais) et vous lancez.
+4. Patience sur les rendus lourds (image HD, vidéo, 3D) : la qualité passe avant la vitesse.
+
+## Me contacter
+
+Une question, une idée, envie d'en savoir plus, ou le studio est fermé et vous voulez me joindre ?
+
+- 📸 **Snap** : `jrabuteau.py`
+- 📷 **Instagram** : `world_of_juan23`
+- ✉️ **Mail** : `rabuteaujuandavid@gmail.com`
 
 ---
-_Studio personnel — usage de démonstration._
+_Studio personnel, fait maison. Merci de passer 🙌_
