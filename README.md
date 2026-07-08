@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://thriller-assistant-crew-chan.trycloudflare.com](https://thriller-assistant-crew-chan.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://last-directive-estimate-answer.trycloudflare.com](https://last-directive-estimate-answer.trycloudflare.com)**
 
-_Mis à jour le 2026-07-08 04:21. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-07-08 04:33. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
