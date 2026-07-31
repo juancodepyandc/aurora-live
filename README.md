@@ -11,7 +11,7 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://phi-match-salmon-minnesota.trycloudflare.com](https://phi-match-salmon-minnesota.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://characterization-municipality-pda-pond.trycloudflare.com](https://characterization-municipality-pda-pond.trycloudflare.com)**
 
 _Mis à jour le 2026-07-31 04:12. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
