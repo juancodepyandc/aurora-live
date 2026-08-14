@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://canvas-certificates-paintball-length.trycloudflare.com](https://canvas-certificates-paintball-length.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://mart-clear-nutrition-put.trycloudflare.com](https://mart-clear-nutrition-put.trycloudflare.com)**
 
-_Mis à jour le 2026-08-14 22:00. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-08-14 22:01. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
