@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://bingo-map-medline-clearance.trycloudflare.com](https://bingo-map-medline-clearance.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://puts-licensed-hampshire-breach.trycloudflare.com](https://puts-licensed-hampshire-breach.trycloudflare.com)**
 
-_Mis à jour le 2026-08-19 01:28. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-08-19 01:29. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
