@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://lace-mostly-psp-sue.trycloudflare.com](https://lace-mostly-psp-sue.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://bingo-map-medline-clearance.trycloudflare.com](https://bingo-map-medline-clearance.trycloudflare.com)**
 
-_Mis à jour le 2026-08-19 01:27. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-08-19 01:28. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
