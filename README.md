@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://shaw-adjusted-freeware-decrease.trycloudflare.com](https://shaw-adjusted-freeware-decrease.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://exhibit-orders-music-machine.trycloudflare.com](https://exhibit-orders-music-machine.trycloudflare.com)**
 
-_Mis à jour le 2026-08-19 01:29. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-08-19 16:55. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
