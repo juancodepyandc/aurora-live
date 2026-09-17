@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://jimmy-seekers-station-adjustable.trycloudflare.com](https://jimmy-seekers-station-adjustable.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://unsigned-assists-weed-anna.trycloudflare.com](https://unsigned-assists-weed-anna.trycloudflare.com)**
 
-_Mis à jour le 2026-09-16 08:07. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-09-17 17:28. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
