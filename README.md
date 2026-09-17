@@ -11,9 +11,11 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://interest-legislation-epson-inspections.trycloudflare.com](https://interest-legislation-epson-inspections.trycloudflare.com)**
+🔴 **Fermé pour le moment** — en maintenance / réparation, ou simplement éteint.
 
-_Mis à jour le 2026-09-17 19:15. Le lien n'est valable que quand mon PC est allumé._
+Pour toute question ou plus d'infos, contactez-moi : Snap `jrabuteau.py` · Instagram `world_of_juan23` · Mail `rabuteaujuandavid@gmail.com`.
+
+_Mis à jour le 2026-09-17 20:06._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
