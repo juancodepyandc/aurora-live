@@ -11,9 +11,9 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 ## État du studio
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://pit-tricks-vacuum-progressive.trycloudflare.com](https://pit-tricks-vacuum-progressive.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://cartoon-genome-taught-dimension.trycloudflare.com](https://cartoon-genome-taught-dimension.trycloudflare.com)**
 
-_Mis à jour le 2026-09-19 14:05. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-09-19 20:10. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
