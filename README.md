@@ -13,7 +13,7 @@ seule : elle vous dit s'il est **ouvert** (avec l'adresse du moment) ou **fermé
 <!--STATUS-->
 🟢 **Ouvert !** Accès en direct : **[https://reservations-preservation-irc-boundaries.trycloudflare.com](https://reservations-preservation-irc-boundaries.trycloudflare.com)**
 
-_Mis à jour le 2026-09-20 23:28. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-09-20 23:31. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 ## Un mot sur la qualité (et la patience 🙏)
