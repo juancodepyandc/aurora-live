@@ -1,9 +1,11 @@
 # Aurora — état du serveur
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://arabia-secretariat-able-matching.trycloudflare.com](https://arabia-secretariat-able-matching.trycloudflare.com)**
+🔴 **Fermé pour le moment** — en maintenance / réparation, ou simplement éteint.
 
-_Mis à jour le 2026-10-05 11:06. Le lien n'est valable que quand mon PC est allumé._
+Pour toute question ou plus d'infos, contactez-moi : Snap `jrabuteau.py` · Instagram `world_of_juan23` · Mail `rabuteaujuandavid@gmail.com`.
+
+_Mis à jour le 2026-10-05 16:56._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
