@@ -1,9 +1,9 @@
 # Aurora — état du serveur
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://arabia-secretariat-able-matching.trycloudflare.com](https://arabia-secretariat-able-matching.trycloudflare.com)**
+🟢 **Ouvert !** Accès en direct : **[https://eight-saver-escape-lets.trycloudflare.com](https://eight-saver-escape-lets.trycloudflare.com)**
 
-_Mis à jour le 2026-10-05 16:57. Le lien n'est valable que quand mon PC est allumé._
+_Mis à jour le 2026-10-06 11:25. Le lien n'est valable que quand mon PC est allumé._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
