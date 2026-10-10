@@ -1,9 +1,11 @@
 # Aurora — état du serveur
 
 <!--STATUS-->
-🟢 **Ouvert !** Accès en direct : **[https://sought-explosion-merit-sends.trycloudflare.com](https://sought-explosion-merit-sends.trycloudflare.com)**
+🔴 **Fermé pour le moment** — en maintenance / réparation, ou simplement éteint.
 
-_Mis à jour le 2026-10-09 19:31. Le lien n'est valable que quand mon PC est allumé._
+Pour toute question ou plus d'infos, contactez-moi : Snap `jrabuteau.py` · Instagram `world_of_juan23` · Mail `rabuteaujuandavid@gmail.com`.
+
+_Mis à jour le 2026-10-10 13:27._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
