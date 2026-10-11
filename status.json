@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://sought-explosion-merit-sends.trycloudflare.com",
-  "checked_at": "2026-10-11T02:41:58+00:00",
+  "checked_at": "2026-10-11T02:46:04+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
