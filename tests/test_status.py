@@ -27,6 +27,19 @@ class Availability(unittest.TestCase):
         self.assertEqual(m.update(self.repo, checker=lambda u: u == URL), 'online')
         self.assertEqual((self.repo / 'tunnel.txt').read_text().strip(), URL)
 
+    def test_external_checkpoint_records_its_own_probe(self):
+        m.update(self.repo, checker=lambda _: True)
+        record = json.loads((self.repo / 'status.json').read_text())
+        # A local heartbeat within the coalescing window is preserved.
+        recent = (m.datetime.datetime.now(m.datetime.timezone.utc)
+                  - m.datetime.timedelta(seconds=30)).isoformat(timespec='seconds')
+        record['checked_at'] = recent
+        (self.repo / 'status.json').write_text(json.dumps(record))
+        m.update(self.repo, checker=lambda _: True)
+        self.assertEqual(json.loads((self.repo / 'status.json').read_text())['checked_at'], recent)
+        m.update(self.repo, checker=lambda _: True, checkpoint=True)
+        self.assertNotEqual(json.loads((self.repo / 'status.json').read_text())['checked_at'], recent)
+
     def test_open_requires_verified_public_health(self):
         self.assertEqual(m.update(self.repo, 'open', URL, lambda _: False), 'offline')
 

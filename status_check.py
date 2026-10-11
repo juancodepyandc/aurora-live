@@ -26,7 +26,7 @@ def probe(url):
         return False
 
 
-def update(repo, mode='auto', url=None, checker=probe):
+def update(repo, mode='auto', url=None, checker=probe, checkpoint=False):
     repo = Path(repo)
     previous = {}
     try:
@@ -43,7 +43,7 @@ def update(repo, mode='auto', url=None, checker=probe):
     stamp = now.isoformat(timespec='seconds')
     try:
         checked = datetime.datetime.fromisoformat(previous['checked_at'])
-        if (previous.get('state') == state and previous.get('candidate_url') == url
+        if (not checkpoint and previous.get('state') == state and previous.get('candidate_url') == url
                 and 0 <= (now - checked).total_seconds() < 240):
             stamp = previous['checked_at']
     except (KeyError, TypeError, ValueError):
@@ -72,5 +72,6 @@ if __name__ == '__main__':
     parser.add_argument('--repo', type=Path, default=Path(__file__).resolve().parent)
     parser.add_argument('--mode', choices=['auto', 'open', 'closed'], default='auto')
     parser.add_argument('--url')
+    parser.add_argument('--checkpoint', action='store_true', help='Record this external probe even when a recent local heartbeat exists')
     args = parser.parse_args()
-    print(update(args.repo, args.mode, args.url))
+    print(update(args.repo, args.mode, args.url, checkpoint=args.checkpoint))
