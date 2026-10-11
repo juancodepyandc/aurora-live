@@ -1,0 +1,42 @@
+name: Public availability
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    paths: ['status_check.py', '.github/workflows/availability.yml']
+permissions:
+  contents: write
+concurrency:
+  group: public-availability
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.13'
+      - run: python status_check.py
+      - name: Publish verified availability
+        run: |
+          git config user.name 'Aurora availability'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md tunnel.txt status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Verify public Aurora availability'
+            # On conflict, discard only this ephemeral runner update, then
+            # re-probe the newest URL instead of overwriting a desktop renewal.
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then exit 0; fi
+              git fetch origin main
+              git reset --hard origin/main
+              python status_check.py
+              git add README.md tunnel.txt status.json
+              git diff --cached --quiet && exit 0
+              git commit -m 'Verify public Aurora availability'
+            done
+            exit 1
+          fi
