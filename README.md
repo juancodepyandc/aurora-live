@@ -1,9 +1,9 @@
 # Aurora — état du serveur
 
 <!--STATUS-->
-🟢 **En ligne** — [Ouvrir Aurora](https://sought-explosion-merit-sends.trycloudflare.com)
+🔴 **Hors ligne** — le serveur public ne répond pas ou a été arrêté.
 
-_Dernière vérification : 2026-10-11T03:10:38+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
+_Dernière vérification : 2026-10-11T03:14:28+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
