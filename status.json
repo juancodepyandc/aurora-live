@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://donate-shuttle-awarded-headers.trycloudflare.com",
-  "checked_at": "2026-10-12T15:27:12+00:00",
+  "checked_at": "2026-10-12T15:31:18+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
