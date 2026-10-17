@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://debian-spelling-fought-chen.trycloudflare.com",
-  "checked_at": "2026-10-17T17:41:17+00:00",
+  "checked_at": "2026-10-17T17:45:22+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
