@@ -1,6 +1,6 @@
 {
-  "state": "offline",
-  "candidate_url": "https://debian-spelling-fought-chen.trycloudflare.com",
-  "checked_at": "2026-10-23T12:07:00+00:00",
+  "state": "online",
+  "candidate_url": "https://comic-len-cartoon-universities.trycloudflare.com",
+  "checked_at": "2026-10-23T13:03:34+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
