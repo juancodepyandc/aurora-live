@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://comic-len-cartoon-universities.trycloudflare.com",
-  "checked_at": "2026-10-24T15:43:40+00:00",
+  "checked_at": "2026-10-24T15:47:46+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
