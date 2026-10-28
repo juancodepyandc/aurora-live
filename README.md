@@ -3,7 +3,7 @@
 <!--STATUS-->
 🟢 **En ligne** — [Ouvrir Aurora](https://colorado-very-accompanying-yukon.trycloudflare.com)
 
-_Dernière vérification : 2026-10-28T11:39:41+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
+_Dernière vérification : 2026-10-28T11:43:48+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
