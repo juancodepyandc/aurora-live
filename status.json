@@ -1,6 +1,6 @@
 {
-  "state": "online",
+  "state": "offline",
   "candidate_url": "https://colorado-very-accompanying-yukon.trycloudflare.com",
-  "checked_at": "2026-10-28T12:00:13+00:00",
+  "checked_at": "2026-10-28T15:51:33+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
