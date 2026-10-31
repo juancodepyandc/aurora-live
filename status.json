@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://powerseller-dale-sight-amendments.trycloudflare.com",
-  "checked_at": "2026-10-31T05:19:45+00:00",
+  "checked_at": "2026-10-31T05:23:50+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
