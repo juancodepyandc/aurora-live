@@ -1,6 +1,6 @@
 {
   "state": "offline",
   "candidate_url": "https://located-supplemental-contributing-frequencies.trycloudflare.com",
-  "checked_at": "2026-11-15T16:51:53+00:00",
+  "checked_at": "2026-11-15T16:56:21+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
