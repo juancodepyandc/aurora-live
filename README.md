@@ -3,7 +3,7 @@
 <!--STATUS-->
 🟢 **En ligne** — [Ouvrir Aurora](https://interim-money-sperm-volunteers.trycloudflare.com)
 
-_Dernière vérification : 2026-11-23T12:43:38+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
+_Dernière vérification : 2026-11-23T12:47:44+00:00. État vérifié à cet instant, pas une garantie continue. Contrôle GitHub prévu toutes les 5 minutes ; des retards sont possibles._
 <!--/STATUS-->
 
 `tunnel.txt` contient l’adresse publiée pour la découverte du serveur. Une adresse présente ne suffit pas à prouver la disponibilité de tous les moteurs ou des missions.
