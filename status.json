@@ -1,6 +1,6 @@
 {
   "state": "online",
   "candidate_url": "https://section-genesis-york-bass.trycloudflare.com",
-  "checked_at": "2026-11-26T11:36:51+00:00",
+  "checked_at": "2026-11-26T11:40:57+00:00",
   "check_scope": "public aurora-bridge health; not inference readiness"
 }
